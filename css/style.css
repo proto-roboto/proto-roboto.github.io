@@ -3,11 +3,11 @@
 
 /* beep beep boop proto-robo.to! */
 
-body            {letter-spacing: 0.1px; padding: 0; margin: 0; font-family: 'Roboto Condensed', Courier, Monospace, sans-serif; 
-		font-weight: 400; font-size: 17px; color: #444; min-height: 100%; background: #fff;}
+body            {letter-spacing: 0.1px; padding: 0; margin: 0; font-family: 'Roboto Mono', Courier, Monospace, sans-serif; 
+		font-weight: 400; font-size: 28px; color: #444; min-height: 100%; background: #fff;}
 html            {-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 pre             {padding: 0; margin: 0;}
-h1              {margin: 5px 0 10px 0; font-weight: 300; font-size: 22px; letter-spacing: .70em; max-width: 100%;}
+h1              {margin: 5px 0 10px 0; font-weight: 300; font-size: 24px; letter-spacing: .70em; max-width: 100%;}
 ul              {padding: 0;}
 span            {padding: 0; margin: 0 10px 0 0;}
 li              {margin: 10px 0; padding: 0; list-style: none;}
